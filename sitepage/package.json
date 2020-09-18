@@ -2,11 +2,7 @@
   "name": "sitepage",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://FelicityZhang.github.io/felicityxzhang",
-=======
   "homepage":"https://FelicityZhang.github.io/felicityxzhang",
->>>>>>> a6956f4dbd32b26e7e77e3fee344c49a007e4b18
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
