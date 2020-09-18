@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/felicityxzhang/static/css/main.d256c62a.chunk.css",
+    "main.css": "/felicityxzhang/static/css/main.b05479e3.chunk.css",
     "main.js": "/felicityxzhang/static/js/main.6afb00b0.chunk.js",
     "main.js.map": "/felicityxzhang/static/js/main.6afb00b0.chunk.js.map",
     "runtime-main.js": "/felicityxzhang/static/js/runtime-main.cf2d4d69.js",
@@ -8,9 +8,9 @@
     "static/js/2.769fb6f1.chunk.js": "/felicityxzhang/static/js/2.769fb6f1.chunk.js",
     "static/js/2.769fb6f1.chunk.js.map": "/felicityxzhang/static/js/2.769fb6f1.chunk.js.map",
     "index.html": "/felicityxzhang/index.html",
-    "precache-manifest.1a12cfb95bed8bae462fac689ddb17b6.js": "/felicityxzhang/precache-manifest.1a12cfb95bed8bae462fac689ddb17b6.js",
+    "precache-manifest.763b7f9f599cbf006d09912f74223169.js": "/felicityxzhang/precache-manifest.763b7f9f599cbf006d09912f74223169.js",
     "service-worker.js": "/felicityxzhang/service-worker.js",
-    "static/css/main.d256c62a.chunk.css.map": "/felicityxzhang/static/css/main.d256c62a.chunk.css.map",
+    "static/css/main.b05479e3.chunk.css.map": "/felicityxzhang/static/css/main.b05479e3.chunk.css.map",
     "static/js/2.769fb6f1.chunk.js.LICENSE.txt": "/felicityxzhang/static/js/2.769fb6f1.chunk.js.LICENSE.txt",
     "static/media/Homepage.css": "/felicityxzhang/static/media/shopshop.d4349c4d.png",
     "static/media/email.png": "/felicityxzhang/static/media/email.ed730cc0.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.cf2d4d69.js",
     "static/js/2.769fb6f1.chunk.js",
-    "static/css/main.d256c62a.chunk.css",
+    "static/css/main.b05479e3.chunk.css",
     "static/js/main.6afb00b0.chunk.js"
   ]
 }
